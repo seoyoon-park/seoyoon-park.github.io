@@ -15,7 +15,3 @@ She earned her bachelor's degree in Electronic and Electrical Engineering from H
 
 - Energy-efficient AI accelerators and SoCs
 - Hardware–software co-design
-
-## Education
-
-- **Ph.D., Electrical and Systems Engineering**, University of Pennsylvania, 2026–present
