@@ -22,10 +22,10 @@ repository               : "seoyoon-park/seoyoon-park.github.io"
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
-  avatar           : "profile.png"
+  avatar           : "seoyoon-park-headshot.jpg"
   name             : "Seoyoon Park"
   pronouns         :
-  bio              : "Ph.D. student in Electrical and Systems Engineering"
+  bio              : "Ph.D. student in Electrical and Systems Engineering (pre-candidacy)"
   location         : "Philadelphia, PA"
   employer         : "University of Pennsylvania"
   uri              :
@@ -61,7 +61,7 @@ author:
   keybase          :
   instagram        :
   lastfm           :
-  linkedin         : "seoyoon-park-ee"
+  linkedin         : "seoyoonp"
   mastodon         :
   medium           :
   pinterest        :
@@ -148,7 +148,7 @@ social:
   links:
     - "https://github.com/seoyoon-park"
     - "https://orcid.org/0009-0002-0969-876X"
-    - "https://www.linkedin.com/in/seoyoon-park-ee/"
+    - "https://www.linkedin.com/in/seoyoonp/"
 
 
 # Analytics
