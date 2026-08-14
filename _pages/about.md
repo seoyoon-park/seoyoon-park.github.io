@@ -19,14 +19,3 @@ She earned her bachelor's degree in Electronic and Electrical Engineering from H
 ## Education
 
 - **Ph.D., Electrical and Systems Engineering**, University of Pennsylvania, 2026–present
-- **B.S., Electronic and Electrical Engineering**, Hongik University, Seoul, South Korea, 2026
-
-## Honors & Awards
-
-- **Korean Government Graduate Fellowship**, Government of the Republic of Korea, July 2026  
-  Selected in the Advanced Industry Research category.
-
-## Languages
-
-- Korean — Native
-- English — Fluent
